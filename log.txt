@@ -1,0 +1,3896 @@
+registering domain: BBBB
+domain is not available
+registering domain: BBBC
+domain is not available
+registering domain: BBBD
+domain is not available
+registering domain: BBBE
+domain is not available
+registering domain: BBBF
+domain is not available
+registering domain: BBBG
+domain is not available
+registering domain: BBBH
+domain is not available
+registering domain: BBBI
+domain is not available
+registering domain: BBBJ
+registering domain: ZASD
+Current balance: 113.14 HNS
+registering domain: ZASE
+domain is not available
+registering domain: ZASF
+Current balance: 112.65 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASG
+Current balance: 112.16 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASH
+domain is not available
+registering domain: ZASI
+domain is not available
+registering domain: ZASJ
+Current balance: 111.66 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASK
+Current balance: 111.17 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASL
+Current balance: 110.67 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASN
+Current balance: 110.18 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASO
+domain is not available
+registering domain: ZASP
+domain is not available
+registering domain: ZASQ
+Current balance: 109.69 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASR
+domain is not available
+registering domain: ZASS
+domain is not available
+registering domain: ZAST
+domain is not available
+registering domain: ZASU
+domain is not available
+registering domain: ZASV
+domain is not available
+registering domain: ZASW
+Current balance: 109.19 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASX
+Current balance: 108.7 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASY
+Current balance: 108.21 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZASZ
+Current balance: 107.71 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZATA
+domain is not available
+registering domain: ZATB
+Current balance: 107.22 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZATC
+Current balance: 106.73 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZATD
+Current balance: 106.23 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZATE
+domain is not available
+registering domain: ZATF
+Current balance: 105.74 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: ZATG
+Current balance: 105.24 HNS
+registering domain: gent
+domain is not available
+registering domain: astrakhan
+domain is not available
+registering domain: intelligence
+domain is not available
+registering domain: sectionalism
+Current balance: 104.75 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: heartstrings
+domain is not available
+registering domain: vetchling
+domain is not available
+registering domain: bindweed
+Current balance: 104.26 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: invigilator
+domain is not available
+registering domain: bonsai
+domain is not available
+registering domain: harte
+domain is not available
+registering domain: thermochemistry
+Current balance: 103.76 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: gastroenterologist
+domain is not available
+registering domain: gasterosteidae
+Current balance: 103.27 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+registering domain: outline
+domain is not available
+registering domain: picornavirus
+Current balance: 102.78 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: acanthus
+domain is not available
+registering domain: contribution
+domain is not available
+registering domain: oilbird
+Current balance: 102.28 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: perissodactyla
+Current balance: 101.79 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: violet
+domain is not available
+registering domain: courtesy
+domain is not available
+registering domain: mackintosh
+registering domain: shook
+domain is not available
+
+registering domain: liberation
+domain is not available
+
+registering domain: ensign
+domain is not available
+
+registering domain: emydidae
+Current balance: 101.3 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: telemetry
+domain is not available
+
+registering domain: skylab
+domain is not available
+
+registering domain: kachina
+Current balance: 100.8 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: lascaux
+Current balance: 100.31 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: dissuasion
+domain is not available
+
+registering domain: odontoceti
+Current balance: 99.81 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: hypocrisy
+domain is not available
+
+registering domain: seminary
+domain is not available
+
+registering domain: fruiterer
+Current balance: 99.32 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: mudguard
+Current balance: 98.83 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: seizure
+domain is not available
+
+registering domain: louis
+domain is not available
+
+registering domain: salutatorian
+Current balance: 98.33 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: lacing
+domain is not available
+
+registering domain: prognosis
+domain is not available
+
+registering domain: cali
+domain is not available
+
+registering domain: chlorophyceae
+Current balance: 97.84 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: soul-searching
+registering domain: stoat
+domain is not available
+
+registering domain: semen
+domain is not available
+
+registering domain: rota
+domain is not available
+
+registering domain: anjou
+domain is not available
+
+registering domain: kui
+domain is not available
+
+registering domain: augur
+domain is not available
+
+registering domain: baht
+domain is not available
+
+registering domain: shire
+domain is not available
+
+registering domain: kamet
+domain is not available
+
+registering domain: camel
+domain is not available
+
+registering domain: skeet
+domain is not available
+
+registering domain: bowie
+domain is not available
+
+registering domain: gulag
+domain is not available
+
+registering domain: eater
+domain is not available
+
+registering domain: banks
+domain is not available
+
+registering domain: race
+domain is not available
+
+registering domain: recto
+domain is not available
+
+registering domain: theta
+domain is not available
+
+registering domain: oto
+domain is not available
+
+registering domain: larva
+domain is not available
+
+registering domain: eruca
+Current balance: 97.35 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: sue
+domain is not available
+
+registering domain: oman
+domain is not available
+
+registering domain: chile
+domain is not available
+
+registering domain: broad
+domain is not available
+
+registering domain: haida
+domain is not available
+
+registering domain: ono
+domain is not available
+
+registering domain: vagus
+domain is not available
+
+registering domain: hag
+domain is not available
+
+registering domain: typha
+Current balance: 96.85 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: gumbo
+domain is not available
+
+registering domain: tokyo
+domain is not available
+
+registering domain: goat
+domain is not available
+
+registering domain: ayin
+domain is not available
+
+registering domain: filly
+domain is not available
+
+registering domain: jamb
+domain is not available
+
+registering domain: nerve
+domain is not available
+
+registering domain: deity
+domain is not available
+
+registering domain: jolly
+domain is not available
+
+registering domain: tandy
+domain is not available
+
+registering domain: agony
+domain is not available
+
+registering domain: piner
+domain is not available
+
+registering domain: props
+domain is not available
+
+registering domain: livy
+domain is not available
+
+registering domain: rotl
+domain is not available
+
+registering domain: gean
+domain is not available
+
+registering domain: fog
+domain is not available
+
+registering domain: emery
+domain is not available
+
+registering domain: venn
+domain is not available
+
+registering domain: atlas
+domain is not available
+
+registering domain: ro
+domain is not available
+
+registering domain: vodka
+domain is not available
+
+registering domain: urey
+domain is not available
+
+registering domain: loire
+domain is not available
+
+registering domain: otus
+domain is not available
+
+registering domain: peru
+domain is not available
+
+registering domain: burin
+domain is not available
+
+registering domain: herb
+domain is not available
+
+registering domain: melon
+domain is not available
+
+registering domain: speed
+domain is not available
+
+registering domain: rod
+domain is not available
+
+registering domain: dawes
+domain is not available
+
+registering domain: otter
+domain is not available
+
+registering domain: ashe
+domain is not available
+
+registering domain: nymph
+domain is not available
+
+registering domain: bleu
+domain is not available
+
+registering domain: rudd
+domain is not available
+
+registering domain: lift
+domain is not available
+
+registering domain: alarm
+domain is not available
+
+registering domain: pie
+domain is not available
+
+registering domain: wale
+domain is not available
+
+registering domain: huss
+domain is not available
+
+registering domain: llud
+domain is not available
+
+registering domain: barn
+domain is not available
+
+registering domain: kopek
+domain is not available
+
+registering domain: gyps
+domain is not available
+
+registering domain: scam
+domain is not available
+
+registering domain: freud
+domain is not available
+
+registering domain: baba
+domain is not available
+
+registering domain: brawn
+domain is not available
+
+registering domain: snit
+domain is not available
+
+registering domain: baron
+domain is not available
+
+registering domain: pock
+domain is not available
+
+registering domain: tern
+domain is not available
+
+registering domain: yama
+domain is not available
+
+registering domain: sind
+domain is not available
+
+registering domain: salol
+Current balance: 96.36 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: stall
+domain is not available
+
+registering domain: vogue
+domain is not available
+
+registering domain: clyde
+domain is not available
+
+registering domain: sango
+domain is not available
+
+registering domain: heft
+domain is not available
+
+registering domain: monte
+domain is not available
+
+registering domain: wicca
+domain is not available
+
+registering domain: maar
+domain is not available
+
+registering domain: lin
+domain is not available
+
+registering domain: lepas
+Current balance: 95.86 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: meed
+domain is not available
+
+registering domain: cabal
+domain is not available
+
+registering domain: silk
+domain is not available
+
+registering domain: lode
+domain is not available
+
+registering domain: dumps
+domain is not available
+
+registering domain: camas
+domain is not available
+
+registering domain: tapa
+domain is not available
+
+registering domain: grace
+domain is not available
+
+registering domain: flap
+domain is not available
+
+registering domain: eyrir
+domain is not available
+
+registering domain: jimmy
+domain is not available
+
+registering domain: steak
+domain is not available
+
+registering domain: hajji
+domain is not available
+
+registering domain: tay
+domain is not available
+
+registering domain: mouse
+domain is not available
+
+registering domain: sills
+domain is not available
+
+registering domain: audio
+domain is not available
+
+registering domain: elemi
+domain is not available
+
+registering domain: pane
+domain is not available
+
+registering domain: poet
+domain is not available
+
+registering domain: glut
+domain is not available
+
+registering domain: brow
+domain is not available
+
+registering domain: tare
+domain is not available
+
+registering domain: why
+domain is not available
+
+registering domain: haley
+domain is not available
+
+registering domain: quipu
+domain is not available
+
+registering domain: slub
+domain is not available
+
+registering domain: berm
+domain is not available
+
+registering domain: vajra
+domain is not available
+
+registering domain: isaac
+domain is not available
+
+registering domain: varro
+domain is not available
+
+registering domain: guise
+domain is not available
+
+registering domain: tutu
+domain is not available
+
+registering domain: thumb
+domain is not available
+
+registering domain: deneb
+domain is not available
+
+registering domain: musgu
+Current balance: 95.37 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: namer
+domain is not available
+
+registering domain: hovel
+domain is not available
+
+registering domain: tell
+domain is not available
+
+registering domain: litas
+domain is not available
+
+registering domain: minim
+domain is not available
+
+registering domain: peg
+domain is not available
+
+registering domain: assam
+domain is not available
+
+registering domain: saga
+domain is not available
+
+registering domain: kin
+domain is not available
+
+registering domain: nemea
+domain is not available
+
+registering domain: nylon
+domain is not available
+
+registering domain: owl
+domain is not available
+
+registering domain: tarn
+domain is not available
+
+registering domain: capri
+domain is not available
+
+registering domain: entry
+domain is not available
+
+registering domain: nadir
+domain is not available
+
+registering domain: brill
+domain is not available
+
+registering domain: mime
+domain is not available
+
+registering domain: liman
+domain is not available
+
+registering domain: udder
+domain is not available
+
+registering domain: zapus
+Current balance: 94.88 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: pond
+domain is not available
+
+registering domain: fury
+domain is not available
+
+registering domain: tosk
+domain is not available
+
+registering domain: apios
+domain is not available
+
+registering domain: lux
+domain is not available
+
+registering domain: say
+domain is not available
+
+registering domain: marc
+domain is not available
+
+registering domain: piety
+domain is not available
+
+registering domain: capek
+domain is not available
+
+registering domain: frizz
+domain is not available
+
+registering domain: riff
+domain is not available
+
+registering domain: ruby
+domain is not available
+
+registering domain: hinny
+domain is not available
+
+registering domain: molt
+domain is not available
+
+registering domain: skin
+domain is not available
+
+registering domain: papua
+domain is not available
+
+registering domain: irani
+domain is not available
+
+registering domain: span
+domain is not available
+
+registering domain: opera
+domain is not available
+
+registering domain: stare
+domain is not available
+
+registering domain: city
+domain is not available
+
+registering domain: wac
+domain is not available
+
+registering domain: hug
+domain is not available
+
+registering domain: coney
+domain is not available
+
+registering domain: rival
+domain is not available
+
+registering domain: cuzco
+domain is not available
+
+registering domain: mudra
+domain is not available
+
+registering domain: grebe
+domain is not available
+
+registering domain: wuhan
+domain is not available
+
+registering domain: pe
+domain is not available
+
+registering domain: ewe
+domain is not available
+
+registering domain: squid
+domain is not available
+
+registering domain: psoas
+domain is not available
+
+registering domain: shook
+domain is not available
+
+registering domain: ohm
+domain is not available
+
+registering domain: oldie
+domain is not available
+
+registering domain: bel
+domain is not available
+
+registering domain: ogee
+domain is not available
+
+registering domain: rug
+domain is not available
+
+registering domain: gael
+domain is not available
+
+registering domain: blair
+domain is not available
+
+registering domain: maori
+domain is not available
+
+registering domain: carum
+Current balance: 94.38 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: craw
+domain is not available
+
+registering domain: altar
+domain is not available
+
+registering domain: aid
+domain is not available
+
+registering domain: arete
+domain is not available
+
+registering domain: force
+domain is not available
+
+registering domain: saber
+domain is not available
+
+registering domain: orczy
+Current balance: 93.89 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: alb
+domain is not available
+
+registering domain: paisa
+domain is not available
+
+registering domain: infix
+domain is not available
+
+registering domain: lilac
+domain is not available
+
+registering domain: kiln
+domain is not available
+
+registering domain: dell
+domain is not available
+
+registering domain: mink
+domain is not available
+
+registering domain: gala
+domain is not available
+
+registering domain: raja
+domain is not available
+
+registering domain: width
+domain is not available
+
+registering domain: hame
+domain is not available
+
+registering domain: zill
+domain is not available
+
+registering domain: sprit
+domain is not available
+
+registering domain: zebu
+domain is not available
+
+registering domain: thor
+domain is not available
+
+registering domain: scut
+domain is not available
+
+registering domain: carat
+domain is not available
+
+registering domain: wotan
+domain is not available
+
+registering domain: noah
+domain is not available
+
+registering domain: tray
+domain is not available
+
+registering domain: rowel
+Current balance: 93.4 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: word
+domain is not available
+
+registering domain: myrrh
+domain is not available
+
+registering domain: masa
+domain is not available
+
+registering domain: beet
+domain is not available
+
+registering domain: hasid
+Current balance: 92.9 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ochs
+domain is not available
+
+registering domain: heth
+domain is not available
+
+registering domain: gaff
+domain is not available
+
+registering domain: bran
+domain is not available
+
+registering domain: luo
+domain is not available
+
+registering domain: bruch
+domain is not available
+
+registering domain: chad
+domain is not available
+
+registering domain: epee
+domain is not available
+
+registering domain: cauda
+domain is not available
+
+registering domain: larch
+domain is not available
+
+registering domain: yeats
+domain is not available
+
+registering domain: dash
+domain is not available
+
+registering domain: jay
+domain is not available
+
+registering domain: reid
+domain is not available
+
+registering domain: moat
+domain is not available
+
+registering domain: loren
+domain is not available
+
+registering domain: cimex
+domain is not available
+
+registering domain: wood
+domain is not available
+
+registering domain: fetus
+domain is not available
+
+registering domain: uke
+domain is not available
+
+registering domain: ethic
+domain is not available
+
+registering domain: fesse
+domain is not available
+
+registering domain: rabat
+domain is not available
+
+registering domain: elops
+domain is not available
+
+registering domain: enol
+domain is not available
+
+registering domain: skier
+domain is not available
+
+registering domain: ladin
+domain is not available
+
+registering domain: town
+domain is not available
+
+registering domain: meles
+domain is not available
+
+registering domain: iraq
+domain is not available
+
+registering domain: gwynn
+domain is not available
+
+registering domain: azote
+domain is not available
+
+registering domain: attar
+domain is not available
+
+registering domain: lobe
+domain is not available
+
+registering domain: manes
+domain is not available
+
+registering domain: yuan
+domain is not available
+
+registering domain: diver
+domain is not available
+
+registering domain: roux
+domain is not available
+
+registering domain: burk
+domain is not available
+
+registering domain: anna
+domain is not available
+
+registering domain: gaur
+domain is not available
+
+registering domain: kean
+domain is not available
+
+registering domain: carya
+domain is not available
+
+registering domain: verpa
+Current balance: 92.41 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: devi
+domain is not available
+
+registering domain: vise
+domain is not available
+
+registering domain: begin
+domain is not available
+
+registering domain: kiowa
+domain is not available
+
+registering domain: hero
+domain is not available
+
+registering domain: dakar
+domain is not available
+
+registering domain: sfax
+domain is not available
+
+registering domain: gaea
+domain is not available
+
+registering domain: watts
+domain is not available
+
+registering domain: clark
+domain is not available
+
+registering domain: fame
+domain is not available
+
+registering domain: tetra
+domain is not available
+
+registering domain: syrup
+domain is not available
+
+registering domain: medan
+domain is not available
+
+registering domain: vayu
+domain is not available
+
+registering domain: boole
+domain is not available
+
+registering domain: bam
+domain is not available
+
+registering domain: minsk
+domain is not available
+
+registering domain: musth
+Current balance: 91.92 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: niece
+domain is not available
+
+registering domain: ruhr
+domain is not available
+
+registering domain: incus
+Current balance: 91.42 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: loon
+domain is not available
+
+registering domain: candy
+domain is not available
+
+registering domain: gula
+domain is not available
+
+registering domain: crecy
+domain is not available
+
+registering domain: salat
+domain is not available
+
+registering domain: croak
+domain is not available
+
+registering domain: kline
+domain is not available
+
+registering domain: cocos
+domain is not available
+
+registering domain: vicia
+Current balance: 90.93 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: flax
+domain is not available
+
+registering domain: invar
+domain is not available
+
+registering domain: alca
+domain is not available
+
+registering domain: pepsi
+domain is not available
+
+registering domain: bosch
+domain is not available
+
+registering domain: juju
+domain is not available
+
+registering domain: torte
+domain is not available
+
+registering domain: loeb
+domain is not available
+
+registering domain: bill
+domain is not available
+
+registering domain: robin
+domain is not available
+
+registering domain: budge
+domain is not available
+
+registering domain: tansy
+domain is not available
+
+registering domain: eyck
+domain is not available
+
+registering domain: air
+domain is not available
+
+registering domain: fake
+domain is not available
+
+registering domain: bali
+domain is not available
+
+registering domain: euler
+domain is not available
+
+registering domain: andes
+domain is not available
+
+registering domain: bonus
+domain is not available
+
+registering domain: farsi
+domain is not available
+
+registering domain: slide
+domain is not available
+
+registering domain: edo
+domain is not available
+
+registering domain: adana
+domain is not available
+
+registering domain: piece
+domain is not available
+
+registering domain: limax
+domain is not available
+
+registering domain: otis
+domain is not available
+
+registering domain: hin
+domain is not available
+
+registering domain: luzon
+domain is not available
+
+registering domain: polls
+domain is not available
+
+registering domain: gumma
+domain is not available
+
+registering domain: crore
+domain is not available
+
+registering domain: gabon
+domain is not available
+
+registering domain: goofy
+domain is not available
+
+registering domain: rodin
+domain is not available
+
+registering domain: marsh
+domain is not available
+
+registering domain: gaddi
+domain is not available
+
+registering domain: rates
+domain is not available
+
+registering domain: mufti
+domain is not available
+
+registering domain: asp
+domain is not available
+
+registering domain: retem
+domain is not available
+
+registering domain: scold
+domain is not available
+
+registering domain: trent
+domain is not available
+
+registering domain: clio
+domain is not available
+
+registering domain: yucca
+domain is not available
+
+registering domain: hutu
+domain is not available
+
+registering domain: ute
+domain is not available
+
+registering domain: dove
+domain is not available
+
+registering domain: geb
+domain is not available
+
+registering domain: prima
+domain is not available
+
+registering domain: crete
+domain is not available
+
+registering domain: albee
+domain is not available
+
+registering domain: oca
+domain is not available
+
+registering domain: lowry
+domain is not available
+
+registering domain: frau
+domain is not available
+
+registering domain: pout
+domain is not available
+
+registering domain: lally
+domain is not available
+
+registering domain: stole
+domain is not available
+
+registering domain: ashur
+domain is not available
+
+registering domain: enki
+domain is not available
+
+registering domain: pecos
+domain is not available
+
+registering domain: owen
+domain is not available
+
+registering domain: kabob
+domain is not available
+
+registering domain: bryan
+domain is not available
+
+registering domain: wadi
+domain is not available
+
+registering domain: hel
+domain is not available
+
+registering domain: tartu
+domain is not available
+
+registering domain: nude
+domain is not available
+
+registering domain: yips
+domain is not available
+
+registering domain: sago
+domain is not available
+
+registering domain: kandy
+domain is not available
+
+registering domain: bey
+domain is not available
+
+registering domain: olm
+domain is not available
+
+registering domain: asper
+domain is not available
+
+registering domain: fauld
+Current balance: 90.43 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: arca
+domain is not available
+
+registering domain: quark
+domain is not available
+
+registering domain: cry
+domain is not available
+
+registering domain: keats
+domain is not available
+
+registering domain: munj
+domain is not available
+
+registering domain: manna
+domain is not available
+
+registering domain: hera
+domain is not available
+
+registering domain: atom
+domain is not available
+
+registering domain: larus
+domain is not available
+
+registering domain: sana
+domain is not available
+
+registering domain: law
+domain is not available
+
+registering domain: acre
+domain is not available
+
+registering domain: cali
+domain is not available
+
+registering domain: tad
+domain is not available
+
+registering domain: strix
+domain is not available
+
+registering domain: tunic
+domain is not available
+
+registering domain: humin
+domain is not available
+
+registering domain: bialy
+domain is not available
+
+registering domain: scott
+domain is not available
+
+registering domain: chyle
+domain is not available
+
+registering domain: ives
+domain is not available
+
+registering domain: zeta
+domain is not available
+
+registering domain: hajj
+domain is not available
+
+registering domain: riley
+domain is not available
+
+registering domain: rifle
+domain is not available
+
+registering domain: dogie
+domain is not available
+
+registering domain: lyre
+domain is not available
+
+registering domain: flux
+domain is not available
+
+registering domain: durga
+domain is not available
+
+registering domain: golem
+domain is not available
+
+registering domain: kob
+domain is not available
+
+registering domain: frond
+domain is not available
+
+registering domain: tammy
+domain is not available
+
+registering domain: wats
+domain is not available
+
+registering domain: nejd
+domain is not available
+
+registering domain: fraud
+domain is not available
+
+registering domain: krebs
+domain is not available
+
+registering domain: falls
+domain is not available
+
+registering domain: purr
+domain is not available
+
+registering domain: limey
+domain is not available
+
+registering domain: serf
+domain is not available
+
+registering domain: urial
+domain is not available
+
+registering domain: serif
+domain is not available
+
+registering domain: rein
+domain is not available
+
+registering domain: vaduz
+domain is not available
+
+registering domain: pinot
+domain is not available
+
+registering domain: beer
+domain is not available
+
+registering domain: eve
+domain is not available
+
+registering domain: milne
+domain is not available
+
+registering domain: ceibo
+domain is not available
+
+registering domain: ulva
+domain is not available
+
+registering domain: pisum
+Current balance: 34.94 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: peron
+domain is not available
+
+registering domain: writ
+domain is not available
+
+registering domain: geum
+domain is not available
+
+registering domain: namur
+domain is not available
+
+registering domain: howe
+domain is not available
+
+registering domain: gent
+domain is not available
+
+registering domain: coypu
+domain is not available
+
+registering domain: aspen
+domain is not available
+
+registering domain: dinka
+domain is not available
+
+registering domain: clade
+domain is not available
+
+registering domain: potos
+domain is not available
+
+registering domain: pengo
+domain is not available
+
+registering domain: stent
+domain is not available
+
+registering domain: kauri
+domain is not available
+
+registering domain: cafe
+domain is not available
+
+registering domain: sigyn
+domain is not available
+
+registering domain: murre
+domain is not available
+
+registering domain: tench
+domain is not available
+
+registering domain: naiad
+domain is not available
+
+registering domain: lev
+domain is not available
+
+registering domain: tutee
+Current balance: 34.45 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: praya
+domain is not available
+
+registering domain: jat
+domain is not available
+
+registering domain: liszt
+domain is not available
+
+registering domain: banjo
+domain is not available
+
+registering domain: eon
+domain is not available
+
+registering domain: basel
+domain is not available
+
+registering domain: chert
+domain is not available
+
+registering domain: bosk
+domain is not available
+
+registering domain: todea
+domain is not available
+
+registering domain: iris
+domain is not available
+
+registering domain: ear
+domain is not available
+
+registering domain: slab
+domain is not available
+
+registering domain: gland
+domain is not available
+
+registering domain: hemp
+domain is not available
+
+registering domain: cello
+domain is not available
+
+registering domain: fado
+domain is not available
+
+registering domain: goby
+domain is not available
+
+registering domain: conoy
+Current balance: 33.95 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: skuld
+domain is not available
+
+registering domain: taxis
+domain is not available
+
+registering domain: sext
+domain is not available
+
+registering domain: guess
+domain is not available
+
+registering domain: vega
+domain is not available
+
+registering domain: puce
+domain is not available
+
+registering domain: paton
+domain is not available
+
+registering domain: biter
+domain is not available
+
+registering domain: yana
+domain is not available
+
+registering domain: angas
+domain is not available
+
+registering domain: rhine
+domain is not available
+
+registering domain: ameba
+domain is not available
+
+registering domain: inkle
+domain is not available
+
+registering domain: zuni
+domain is not available
+
+registering domain: being
+domain is not available
+
+registering domain: omega
+domain is not available
+
+registering domain: byway
+domain is not available
+
+registering domain: pul
+domain is not available
+
+registering domain: fuchs
+domain is not available
+
+registering domain: lady
+domain is not available
+
+registering domain: verb
+domain is not available
+
+registering domain: dent
+domain is not available
+
+registering domain: shin
+domain is not available
+
+registering domain: cur
+domain is not available
+
+registering domain: alula
+domain is not available
+
+registering domain: fakir
+domain is not available
+
+registering domain: desk
+domain is not available
+
+registering domain: leeds
+domain is not available
+
+registering domain: sabah
+domain is not available
+
+registering domain: ham
+domain is not available
+
+registering domain: jirga
+domain is not available
+
+registering domain: pyle
+registering domain: wbda
+Current balance: 33.46 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: gqof
+Current balance: 32.97 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: aaef
+domain is not available
+
+registering domain: egoj
+domain is not available
+
+registering domain: qwrj
+Current balance: 32.47 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: hcna
+Current balance: 31.98 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: rhel
+domain is not available
+
+registering domain: cfmh
+Current balance: 31.49 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: okae
+Current balance: 30.99 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: qlry
+Current balance: 30.5 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: sfok
+Current balance: 30 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: hybe
+domain is not available
+
+registering domain: qgnn
+Current balance: 29.51 HNS
+registering domain: fvlq
+Current balance: 2.92 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: iscl
+Current balance: 2.43 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: uevp
+Current balance: 1.94 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: bhvw
+domain is not available
+
+registering domain: sgvm
+Current balance: 1.44 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: mhdz
+domain is not available
+
+registering domain: jnvw
+Current balance: 0.95 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: dfxi
+domain is not available
+
+registering domain: arpl
+domain is not available
+
+registering domain: rksh
+Current balance: 0.46 HNS
+Not enough balance.
+
+registering domain: qjoq
+Current balance: 192.98 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: xyjr
+Current balance: 192.49 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: zamo
+domain is not available
+
+registering domain: iymz
+domain is not available
+
+registering domain: ukob
+domain is not available
+
+registering domain: jrtz
+Current balance: 191.99 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: lhor
+Current balance: 191.5 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ohfb
+Current balance: 191.01 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wump
+domain is not available
+
+registering domain: zwil
+Current balance: 190.51 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: kaaq
+domain is not available
+
+registering domain: knsv
+Current balance: 190.02 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ksxw
+Current balance: 189.53 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: mbie
+domain is not available
+
+registering domain: ngxe
+Current balance: 189.03 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: cqtz
+Current balance: 188.54 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: gjhb
+domain is not available
+
+registering domain: kkyr
+Current balance: 188.05 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: xhom
+Current balance: 187.55 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ozmb
+Current balance: 187.06 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ybzr
+Current balance: 186.56 HNS
+registering domain: qyoz
+Current balance: 186.07 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ikjr
+domain is not available
+
+registering domain: pbre
+Current balance: 185.58 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: upbi
+domain is not available
+
+registering domain: baio
+domain is not available
+
+registering domain: ocpi
+domain is not available
+
+registering domain: kryh
+Current balance: 185.08 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: sfeu
+Current balance: 184.59 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wlmi
+Current balance: 184.1 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wwnj
+Current balance: 183.6 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: dztg
+domain is not available
+
+registering domain: brav
+domain is not available
+
+registering domain: iela
+domain is not available
+
+registering domain: lcyq
+Current balance: 183.11 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: tpwg
+Current balance: 182.62 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: btgd
+Current balance: 182.12 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: polr
+domain is not available
+
+registering domain: madt
+domain is not available
+
+registering domain: cdzl
+Current balance: 181.63 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: oeug
+Current balance: 181.13 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: dute
+domain is not available
+
+registering domain: rkqh
+Current balance: 180.64 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: bvkd
+Current balance: 180.15 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: tuer
+domain is not available
+
+registering domain: wysa
+domain is not available
+
+registering domain: uadi
+Current balance: 179.65 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wdbx
+domain is not available
+
+registering domain: erna
+domain is not available
+
+registering domain: emey
+Current balance: 179.16 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: tktt
+domain is not available
+
+registering domain: ekrq
+Current balance: 178.67 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: vxbw
+Current balance: 178.17 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: uusr
+Current balance: 177.68 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wcrl
+Current balance: 177.18 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: izqa
+domain is not available
+
+registering domain: gvgx
+Current balance: 176.69 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: qllg
+Current balance: 176.2 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: lbxk
+Current balance: 175.7 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: gzrk
+Current balance: 175.21 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: dghv
+domain is not available
+
+registering domain: auel
+domain is not available
+
+registering domain: jhub
+domain is not available
+
+registering domain: jfsf
+Current balance: 174.72 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: cobu
+domain is not available
+
+registering domain: fmhv
+Current balance: 174.22 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: tysm
+domain is not available
+
+registering domain: ceme
+domain is not available
+
+registering domain: gepk
+Current balance: 173.73 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: itoi
+domain is not available
+
+registering domain: sdpf
+Current balance: 173.24 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ohrf
+Current balance: 172.74 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ipgr
+domain is not available
+
+registering domain: gata
+domain is not available
+
+registering domain: ykik
+domain is not available
+
+registering domain: gcln
+Current balance: 172.25 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: yvhk
+Current balance: 171.75 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: adxf
+domain is not available
+
+registering domain: reyb
+domain is not available
+
+registering domain: qxvf
+Current balance: 171.26 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ylef
+domain is not available
+
+registering domain: sqqn
+Current balance: 170.77 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: jqnn
+Current balance: 170.27 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ymam
+domain is not available
+
+registering domain: boi
+domain is not available
+
+registering domain: ypf
+domain is not available
+
+registering domain: og1
+domain is not available
+
+registering domain: oi2
+registering domain: klz
+domain is not available
+
+registering domain: w8k
+registering domain: 5e2
+domain is not available
+
+registering domain: ka3
+domain is not available
+
+registering domain: 9hc
+domain is not available
+
+registering domain: d-y
+domain is not available
+
+registering domain: wfm
+domain is not available
+
+registering domain: y5m
+domain is not available
+
+registering domain: 01q
+domain is not available
+
+registering domain: nt7
+domain is not available
+
+registering domain: u-v
+domain is not available
+
+registering domain: 5l4
+domain is not available
+
+registering domain: qll
+domain is not available
+
+registering domain: 5-o
+domain is not available
+
+registering domain: tx-
+domain is not available
+
+registering domain: nym
+domain is not available
+
+registering domain: o3o
+domain is not available
+
+registering domain: yyu
+domain is not available
+
+registering domain: pic
+domain is not available
+
+registering domain: qesv
+domain is not available
+
+registering domain: vrcr
+Current balance: 147.5 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: aziw
+domain is not available
+
+registering domain: fnrv
+domain is not available
+
+registering domain: jgxs
+domain is not available
+
+registering domain: zawk
+domain is not available
+
+registering domain: afnu
+domain is not available
+
+registering domain: qjij
+Current balance: 147.01 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ejdn
+domain is not available
+
+registering domain: kolk
+domain is not available
+
+registering domain: fbid
+domain is not available
+
+registering domain: onls
+domain is not available
+
+registering domain: axdi
+domain is not available
+
+registering domain: xpuv
+domain is not available
+
+registering domain: dpzb
+domain is not available
+
+registering domain: wlou
+domain is not available
+
+registering domain: bexg
+domain is not available
+
+registering domain: ityi
+domain is not available
+
+registering domain: ljxw
+Current balance: 146.51 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: tqfz
+domain is not available
+
+registering domain: fcfw
+domain is not available
+
+registering domain: lcwf
+Current balance: 146.02 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: gwno
+domain is not available
+
+registering domain: ugve
+domain is not available
+
+registering domain: vtqg
+domain is not available
+
+registering domain: iuss
+domain is not available
+
+registering domain: zzeg
+domain is not available
+
+registering domain: zqky
+Current balance: 145.52 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: jsjz
+domain is not available
+
+registering domain: hepl
+Current balance: 145.03 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: eieb
+Current balance: 144.54 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: rdbc
+domain is not available
+
+registering domain: dyrt
+domain is not available
+
+registering domain: jzxr
+domain is not available
+
+registering domain: wapy
+Current balance: 144.04 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: yjvh
+Current balance: 143.55 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ierr
+domain is not available
+
+registering domain: mtwr
+Current balance: 143.06 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: amlo
+domain is not available
+
+registering domain: jqej
+domain is not available
+
+registering domain: qsin
+domain is not available
+
+registering domain: yshl
+Current balance: 142.56 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: mllq
+domain is not available
+
+registering domain: lemw
+Current balance: 142.07 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: onug
+domain is not available
+
+registering domain: cwwn
+domain is not available
+
+registering domain: ldyr
+domain is not available
+
+registering domain: vjoz
+domain is not available
+
+registering domain: cygj
+Current balance: 141.58 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: czld
+Current balance: 141.08 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: rbon
+domain is not available
+
+registering domain: jktp
+Current balance: 140.59 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wnue
+domain is not available
+
+registering domain: mlaa
+domain is not available
+
+registering domain: vbym
+domain is not available
+
+registering domain: hice
+domain is not available
+
+registering domain: rejf
+Current balance: 140.09 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: zpun
+domain is not available
+
+registering domain: dqlr
+domain is not available
+
+registering domain: xayx
+domain is not available
+
+registering domain: ifhx
+domain is not available
+
+registering domain: ekru
+domain is not available
+
+registering domain: igur
+domain is not available
+
+registering domain: kuqt
+domain is not available
+
+registering domain: zvkd
+Current balance: 139.6 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: rhvi
+Current balance: 139.11 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ntzg
+domain is not available
+
+registering domain: yzmu
+domain is not available
+
+registering domain: fdgg
+Current balance: 138.61 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: pwnc
+Current balance: 138.12 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: jzah
+Current balance: 137.63 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: oikj
+domain is not available
+
+registering domain: enjw
+domain is not available
+
+registering domain: ouvq
+domain is not available
+
+registering domain: eynd
+domain is not available
+
+registering domain: zebq
+domain is not available
+
+registering domain: shxz
+Current balance: 137.13 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: bjpe
+domain is not available
+
+registering domain: bgjv
+domain is not available
+
+registering domain: yskq
+domain is not available
+
+registering domain: kxxc
+domain is not available
+
+registering domain: cuyb
+domain is not available
+
+registering domain: vapu
+domain is not available
+
+registering domain: dczj
+domain is not available
+
+registering domain: atrd
+domain is not available
+
+registering domain: pbmu
+domain is not available
+
+registering domain: veya
+domain is not available
+
+registering domain: mgip
+domain is not available
+
+registering domain: nxgw
+Current balance: 136.64 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: gtbb
+domain is not available
+
+registering domain: dbxg
+domain is not available
+
+registering domain: oxvc
+domain is not available
+
+registering domain: suxa
+domain is not available
+
+registering domain: xggm
+domain is not available
+
+registering domain: qawq
+domain is not available
+
+registering domain: bgme
+domain is not available
+
+registering domain: tqau
+Current balance: 136.15 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: jmff
+domain is not available
+
+registering domain: cryv
+domain is not available
+
+registering domain: qliu
+Current balance: 135.65 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: nzwt
+domain is not available
+
+registering domain: xllh
+Current balance: 135.16 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ettl
+domain is not available
+
+registering domain: lbto
+domain is not available
+
+registering domain: fqne
+domain is not available
+
+registering domain: stzg
+domain is not available
+
+registering domain: azak
+domain is not available
+
+registering domain: hhgw
+domain is not available
+
+registering domain: ohet
+domain is not available
+
+registering domain: bylv
+domain is not available
+
+registering domain: fqbh
+domain is not available
+
+registering domain: gtfz
+domain is not available
+
+registering domain: evat
+domain is not available
+
+registering domain: maim
+domain is not available
+
+registering domain: wghs
+domain is not available
+
+registering domain: nlwg
+domain is not available
+
+registering domain: kpkr
+domain is not available
+
+registering domain: tpnz
+domain is not available
+
+registering domain: ihvj
+domain is not available
+
+registering domain: ibxg
+domain is not available
+
+registering domain: mjsg
+domain is not available
+
+registering domain: lfle
+Current balance: 134.66 HNS
+registering domain: gnvs
+Current balance: 134.17 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: rwvf
+domain is not available
+
+registering domain: ojby
+domain is not available
+
+registering domain: inbn
+domain is not available
+
+registering domain: epnx
+domain is not available
+
+registering domain: wwla
+domain is not available
+
+registering domain: ldtt
+domain is not available
+
+registering domain: gcsp
+Current balance: 133.68 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: xgjg
+Current balance: 133.18 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: gztd
+Current balance: 132.69 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: reny
+domain is not available
+
+registering domain: urco
+domain is not available
+
+registering domain: zoaz
+domain is not available
+
+registering domain: fmdl
+Current balance: 132.2 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ezpy
+domain is not available
+
+registering domain: swsr
+Current balance: 131.7 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: slkb
+Current balance: 131.21 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ahsz
+domain is not available
+
+registering domain: lwlv
+Domain is too expensive.
+Current domain price: 70 HNS
+
+registering domain: vppa
+Current balance: 130.71 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: anlh
+domain is not available
+
+registering domain: oihj
+Current balance: 130.22 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: mohp
+domain is not available
+
+registering domain: xqii
+Current balance: 129.73 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: pbhx
+domain is not available
+
+registering domain: lzdd
+Current balance: 129.23 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: siqf
+Current balance: 128.74 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: doge
+domain is not available
+
+registering domain: cioj
+domain is not available
+
+registering domain: pjbj
+Current balance: 128.25 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: csbi
+Current balance: 127.75 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: qivc
+domain is not available
+
+registering domain: nmwz
+Current balance: 127.26 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wwml
+Current balance: 126.77 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wtvf
+domain is not available
+
+registering domain: eurw
+domain is not available
+
+registering domain: ljjd
+Current balance: 126.27 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: jkxe
+Current balance: 125.78 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: qefz
+domain is not available
+
+registering domain: rgqc
+Current balance: 125.28 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: aihw
+domain is not available
+
+registering domain: rjeg
+domain is not available
+
+registering domain: camr
+domain is not available
+
+registering domain: kiot
+domain is not available
+
+registering domain: ywjo
+Current balance: 124.79 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: tipn
+Current balance: 124.3 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: qhvv
+Current balance: 123.8 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: jrrj
+domain is not available
+
+registering domain: bqwq
+domain is not available
+
+registering domain: mzfi
+Current balance: 123.31 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: iynq
+domain is not available
+
+registering domain: xdep
+domain is not available
+
+registering domain: hfdq
+domain is not available
+
+registering domain: vlni
+Current balance: 122.82 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: iedf
+domain is not available
+
+registering domain: xbro
+domain is not available
+
+registering domain: pogt
+domain is not available
+
+registering domain: sdii
+domain is not available
+
+registering domain: avao
+domain is not available
+
+registering domain: autm
+domain is not available
+
+registering domain: pyin
+domain is not available
+
+registering domain: smym
+domain is not available
+
+registering domain: zvms
+domain is not available
+
+registering domain: snko
+domain is not available
+
+registering domain: pdve
+domain is not available
+
+registering domain: ntqv
+domain is not available
+
+registering domain: uvij
+domain is not available
+
+registering domain: ului
+Current balance: 122.32 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: vywx
+Current balance: 121.83 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: qkam
+Current balance: 121.34 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: jsjb
+Current balance: 120.84 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ikln
+domain is not available
+
+registering domain: rrhq
+domain is not available
+
+registering domain: bhje
+domain is not available
+
+registering domain: dynq
+domain is not available
+
+registering domain: uxqo
+domain is not available
+
+registering domain: kukm
+domain is not available
+
+registering domain: kdas
+domain is not available
+
+registering domain: qjve
+domain is not available
+
+registering domain: ibsm
+Current balance: 120.35 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ibjf
+domain is not available
+
+registering domain: oqpn
+domain is not available
+
+registering domain: pyfv
+Current balance: 119.85 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wnfq
+domain is not available
+
+registering domain: wfhe
+domain is not available
+
+registering domain: klbv
+Current balance: 119.36 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: xsyo
+Current balance: 118.87 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: fljs
+Current balance: 118.37 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: fdki
+Current balance: 117.88 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: gciz
+domain is not available
+
+registering domain: qsxq
+domain is not available
+
+registering domain: yyoh
+Current balance: 117.39 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: qtku
+Current balance: 116.89 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: lpmq
+domain is not available
+
+registering domain: hvzd
+domain is not available
+
+registering domain: cksj
+Current balance: 116.4 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: aupq
+domain is not available
+
+registering domain: fknu
+domain is not available
+
+registering domain: yhsd
+domain is not available
+
+registering domain: hvor
+domain is not available
+
+registering domain: iwvw
+domain is not available
+
+registering domain: vdaf
+domain is not available
+
+registering domain: zbed
+Current balance: 115.91 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: vwro
+domain is not available
+
+registering domain: fpot
+domain is not available
+
+registering domain: sjsu
+domain is not available
+
+registering domain: jkna
+domain is not available
+
+registering domain: cood
+domain is not available
+
+registering domain: wfow
+Current balance: 115.41 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: jecy
+domain is not available
+
+registering domain: nnah
+domain is not available
+
+registering domain: waxm
+domain is not available
+
+registering domain: mahb
+domain is not available
+
+registering domain: seta
+domain is not available
+
+registering domain: kevl
+Current balance: 114.92 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wvpx
+Current balance: 114.42 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: pkya
+Current balance: 113.93 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wiqw
+domain is not available
+
+registering domain: hgoq
+domain is not available
+
+registering domain: gkqy
+Current balance: 113.44 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: tbmx
+Current balance: 112.94 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: wgsb
+Current balance: 112.45 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ikfq
+domain is not available
+
+registering domain: xjpc
+domain is not available
+
+registering domain: abih
+domain is not available
+
+registering domain: trrk
+domain is not available
+
+registering domain: xjma
+domain is not available
+
+registering domain: gkxv
+Current balance: 111.96 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: rxwm
+domain is not available
+
+registering domain: dnri
+domain is not available
+
+registering domain: ncup
+domain is not available
+
+registering domain: dktv
+domain is not available
+
+registering domain: zruv
+domain is not available
+
+registering domain: dbbx
+domain is not available
+
+registering domain: skbg
+domain is not available
+
+registering domain: fikk
+domain is not available
+
+registering domain: qkhu
+Current balance: 111.46 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: dvbn
+domain is not available
+
+registering domain: xgnx
+Current balance: 110.97 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: mmpg
+domain is not available
+
+registering domain: qwib
+Current balance: 110.47 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: cwcx
+Current balance: 109.98 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: eqsd
+domain is not available
+
+registering domain: bsic
+domain is not available
+
+registering domain: jzcj
+Current balance: 109.49 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: oiov
+domain is not available
+
+registering domain: okoh
+domain is not available
+
+registering domain: wbyl
+Current balance: 108.99 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: punt
+domain is not available
+
+registering domain: maid
+domain is not available
+
+registering domain: hytf
+domain is not available
+
+registering domain: dcea
+domain is not available
+
+registering domain: gkae
+Current balance: 108.5 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: znlp
+Current balance: 108.01 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: yjlk
+domain is not available
+
+registering domain: shgj
+Current balance: 107.51 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: zlsk
+Current balance: 107.02 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: madi
+domain is not available
+
+registering domain: oecw
+domain is not available
+
+registering domain: suud
+domain is not available
+
+registering domain: jnwb
+domain is not available
+
+registering domain: nese
+domain is not available
+
+registering domain: oxnx
+Current balance: 106.53 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: yhet
+domain is not available
+
+registering domain: zkqn
+domain is not available
+
+registering domain: phwq
+domain is not available
+
+registering domain: efhg
+domain is not available
+
+registering domain: zxce
+Current balance: 106.03 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: rsic
+domain is not available
+
+registering domain: vaiz
+domain is not available
+
+registering domain: gwfl
+domain is not available
+
+registering domain: afqc
+domain is not available
+
+registering domain: ncei
+Current balance: 105.54 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: tnse
+domain is not available
+
+registering domain: wckd
+domain is not available
+
+registering domain: njbg
+domain is not available
+
+registering domain: jboj
+domain is not available
+
+registering domain: ssas
+domain is not available
+
+registering domain: hkye
+domain is not available
+
+registering domain: ihba
+domain is not available
+
+registering domain: bazp
+Current balance: 105.04 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: kvzf
+domain is not available
+
+registering domain: xcux
+Current balance: 104.55 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: rwym
+Current balance: 104.06 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: efgc
+domain is not available
+
+registering domain: xyzx
+domain is not available
+
+registering domain: ggsg
+domain is not available
+
+registering domain: ckqg
+domain is not available
+
+registering domain: bzoa
+domain is not available
+
+registering domain: wpmx
+domain is not available
+
+registering domain: sjhk
+domain is not available
+
+registering domain: mtcw
+domain is not available
+
+registering domain: dass
+domain is not available
+
+registering domain: fumc
+domain is not available
+
+registering domain: qhdx
+domain is not available
+
+registering domain: jqvu
+Current balance: 103.56 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ihav
+domain is not available
+
+registering domain: dydn
+domain is not available
+
+registering domain: ysvg
+domain is not available
+
+registering domain: uwjy
+Current balance: 103.07 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: djzp
+domain is not available
+
+registering domain: fpbk
+domain is not available
+
+registering domain: ebln
+domain is not available
+
+registering domain: lyxp
+Current balance: 102.58 HNS
+registering domain: uzbe
+domain is not available
+
+registering domain: khny
+Current balance: 102.08 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: okrm
+domain is not available
+
+registering domain: nuym
+domain is not available
+
+registering domain: tejf
+Current balance: 101.59 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: ygfn
+Current balance: 101.1 HNS
+registering domain: ifbp
+domain is not available
+
+registering domain: igdw
+domain is not available
+
+registering domain: jhws
+Current balance: 100.6 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
+registering domain: xkif
+domain is not available
+
+registering domain: detf
+domain is not available
+
+registering domain: gaah
+domain is not available
+
+registering domain: jhua
+domain is not available
+
+registering domain: lovk
+Current balance: 100.11 HNS
+Bid success.
+Total bid: 0.4 HNS
+Lookup: 0 HNS
+Bliend: 0.4 HNS
+
